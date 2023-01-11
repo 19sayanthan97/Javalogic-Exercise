@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author sgic
- *
- */
-module JavaLogic {
-}
